@@ -15,5 +15,9 @@ Need python2.7+
 ***Example***  
 Visit [project_life][1]
 
+****View My site****
 
-[1]:http://xtimer.org 
+[xtimer.org](http://xtimer.org)
+
+
+[1]:http://git.xtimer.org/project_life
